@@ -1,0 +1,5 @@
+customtkinter
+Pillow
+undetected-chromedriver
+selenium
+colorama
